@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript that occurs when dealing with null values. The `bug.js` file showcases the error, while `bugSolution.js` provides a corrected version that handles null values appropriately. This example helps developers learn about the importance of handling potential null values to prevent unexpected program behavior.
